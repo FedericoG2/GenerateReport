@@ -1,0 +1,29 @@
+========================================
+                Informe                 
+========================================
+--------------------------------------------------------------------------------------------------------------
+VacancyID           Title               Company             Location            Description         PostedDate          
+--------------------------------------------------------------------------------------------------------------
+1                   Software Engineer   Tech Solutions      New York, NY        Develop and maintain software applications.1/7/2024 00:00:00   
+2                   Frontend Developer  WebWorks            San Francisco, CA   Create and optimize user interfaces.2/7/2024 00:00:00   
+3                   Backend Developer   Data Streams        Austin, TX          Develop server-side logic and databases.3/7/2024 00:00:00   
+4                   Full Stack DeveloperInnovative Tech     Seattle, WA         Work on both frontend and backend technologies.4/7/2024 00:00:00   
+5                   DevOps Engineer     Cloud Services      Denver, CO          Manage and automate cloud infrastructure.5/7/2024 00:00:00   
+6                   Data Scientist      Data Insights       Chicago, IL         Analyze data and build predictive models.6/7/2024 00:00:00   
+7                   Machine Learning EngineerAI Lab              Boston, MA          Develop and deploy machine learning models.7/7/2024 00:00:00   
+8                   QA Engineer         Quality First       Atlanta, GA         Perform testing and ensure software quality.8/7/2024 00:00:00   
+9                   Product Manager     Tech Innovators     Los Angeles, CA     Oversee product development from concept to launch.9/7/2024 00:00:00   
+10                  Project Manager     Tech Solutions      New York, NY        Manage project timelines and deliverables.10/7/2024 00:00:00  
+11                  UX/UI Designer      Creative Minds      Portland, OR        Design user experiences and interfaces.11/7/2024 00:00:00  
+12                  IT Support SpecialistTech Support Co.    Miami, FL           Provide technical support to end users.12/7/2024 00:00:00  
+13                  Systems Analyst     Business Tech       Houston, TX         Analyze and improve IT systems.13/7/2024 00:00:00  
+14                  Network Engineer    Network Solutions   San Diego, CA       Design and manage network infrastructure.14/7/2024 00:00:00  
+15                  Cybersecurity SpecialistSecureTech          Washington, DC      Protect systems and data from cyber threats.15/7/2024 00:00:00  
+16                  Database AdministratorDataSafe            Dallas, TX          Manage and optimize database systems.16/7/2024 00:00:00  
+17                  Cloud Architect     Cloud Solutions     Denver, CO          Design and implement cloud architecture.17/7/2024 00:00:00  
+18                  Mobile Developer    AppWorks            San Francisco, CA   Develop mobile applications for iOS and Android.18/7/2024 00:00:00  
+19                  Technical Writer    TechDocs            New York, NY        Create technical documentation and manuals.19/7/2024 00:00:00  
+20                  IT Consultant       IT Advisory         Los Angeles, CA     Provide IT consulting services to clients.20/7/2024 00:00:00  
+--------------------------------------------------------------------------------------------------------------
+========================================
+Generado el: 2/7/2024 19:05:44

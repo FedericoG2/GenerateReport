@@ -1,6 +1,0 @@
-Informe
---------------------
-Id	FirstName	LastName	Age	Department	
-1	John	Doe	30	IT	
-2	Jane	Smith	28	HR	
-3	Michael	Johnson	35	Finance	
