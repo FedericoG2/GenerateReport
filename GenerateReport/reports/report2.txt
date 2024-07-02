@@ -1,0 +1,8 @@
+Informe
+--------------------
+ID	Name	Species	Age	Owner	
+1	Luna	Cat	3	Ana	
+2	Max	Dog	5	Juan	
+3	Nala	Dog	2	María	
+4	Simba	Cat	4	Pedro	
+5	Rocky	Rabbit	1	Laura	
