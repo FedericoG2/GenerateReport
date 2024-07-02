@@ -49,6 +49,6 @@ Designed to work with SQLite databases, ensuring portability and ease of use.
 
 
 ## Demo 
-https://www.loom.com/share/67a84b95bc334e2db251aeb57af10056?sid=bc8f1fd2-fe18-4dad-80d2-9c7231e6e1b6
+https://www.loom.com/share/7e0409753b484d2d9809f3a045f7666f?sid=ce4ad87f-c339-4730-8ca3-61942ddceb6d
 
 ---
